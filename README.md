@@ -1,7 +1,7 @@
-# api-tester
+# restquest
 
 ## Overview
-`api-tester` is a command-line tool for testing REST API endpoints with various HTTP methods (GET, POST, PUT, PATCH, DELETE). It simplifies API testing by allowing developers to quickly send requests and view responses directly from the terminal.
+`restquest` is a command-line tool for testing REST API endpoints with various HTTP methods (GET, POST, PUT, PATCH, DELETE). It simplifies API testing by allowing developers to quickly send requests and view responses directly from the terminal.
 
 ## Features
 - Supports `GET`, `POST`, `PUT`, `PATCH`, and `DELETE` requests.
@@ -12,14 +12,14 @@
 
 ## Installation
 
-You can install `api-tester` from PyPI:
+You can install `restquest` from PyPI:
 ```bash
-pip install api-tester
+pip install restquest
 ```
 
 Or install it locally in editable mode for development:
 ```bash
-git clone https://github.com/yourusername/api-tester.git
+git clone https://github.com/Moataz0000/api-tester.git
 cd api-tester
 pip install -e .
 ```
