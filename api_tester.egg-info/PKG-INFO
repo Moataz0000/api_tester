@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: api_tester
+Version: 0.1.0
+Summary: A Python package to test API endpoints easily
+Home-page: https://github.com/Moataz0000/api_tester
+Author: Moataz Fawzy
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Dynamic: author
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -1,0 +1,2 @@
+[console_scripts]
+api-tester = api_tester.cli:main
